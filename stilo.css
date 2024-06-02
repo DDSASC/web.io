@@ -1,0 +1,90 @@
+*{
+    text-decoration: none;
+}
+h3{
+    display: inline;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+video{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+    z-index: -17;
+}
+body{
+    color: white;
+    font-family: AvenirNext-DemiBold, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 0px;
+}
+nav{
+    background-color: #00446b;
+    height: 50px;
+}
+h4{
+    display: inline;
+    color: white;
+    margin: 0px 0px 0px 45px;
+    font-size: 15px;
+}
+
+a.honda{
+    display: inline;
+    color: white;
+    float: right;
+    margin: 15px 5px 0px 20px;
+    transition: 1s;
+    font-size: 15px;
+}
+a.honda:hover{
+    color: #62c7ff;
+    background-size: 100% 5px;
+    
+    height: 18px; 
+    padding-left: 0;
+}
+h1{
+    font-size: 40px;
+    margin: 0px 0px 0px 0px;
+}
+h2{
+    font-size: 30px;
+    margin: 0px 0px 0px 0px;
+}
+.text{
+    margin: 0px 0px 0px 20px;
+}
+.textodecontenido{
+    margin-bottom: 35px;
+}
+.textodecontenido2{
+    margin-bottom: 35px;
+}
+span{
+    font-size: 12px;
+}
+section{
+    font-family: "AvenirNext-DemiBold", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: inline-flex;
+    margin-top: 13%;
+    font-size: 15px;
+}
+.a1{
+    max-width: 167px;
+    padding: 0 45px;
+    text-align: center;
+    margin-top: 60px;
+}
+.a2{
+    max-width: 167px;
+    padding: 0 45px;
+    text-align: center;
+}
+.a3{
+    max-width: 167px;
+    padding: 0 5px;
+    text-align: center;
+}
